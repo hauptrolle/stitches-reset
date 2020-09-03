@@ -1,6 +1,6 @@
 {
   "name": "stitches-reset",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Achim Rolle <achim.rolle@googlemail.com>",
   "license": "MIT",
   "main": "lib/index.js",
