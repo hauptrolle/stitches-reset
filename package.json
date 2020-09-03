@@ -11,7 +11,8 @@
   ],
   "scripts": {
     "build": "tsc && tsc -p tsconfig.esm.json",
-    "prebuild": "rm -rf lib && mkdir -p lib"
+    "prebuild": "rm -rf lib && mkdir -p lib",
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
