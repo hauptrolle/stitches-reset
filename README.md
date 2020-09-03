@@ -1,5 +1,7 @@
 # stitches-reset
 
+![issues](https://img.shields.io/github/issues/hauptrolle/stitches-reset)
+
 Eric Meyer's [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) for [stitches](https://github.com/modulz/stitches)
 
 ---
