@@ -1,10 +1,10 @@
 # stitches-reset
 
-![issues](https://img.shields.io/github/issues/hauptrolle/stitches-reset)
+![GitHub release](https://img.shields.io/github/release/hauptrolle/stitches-reset.svg) ![issues](https://img.shields.io/github/issues/hauptrolle/stitches-reset)
 
 Eric Meyer's [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) for [stitches](https://github.com/modulz/stitches).
 
-Feel free to Test on [codesandbox](https://codesandbox.io/s/zealous-hopper-5npr0?file=/src/App.tsx).
+Check out the demo on [codesandbox](https://codesandbox.io/s/zealous-hopper-5npr0?file=/src/App.tsx).
 
 ---
 
