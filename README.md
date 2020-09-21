@@ -14,7 +14,7 @@ Check out the demo on [codesandbox](https://codesandbox.io/s/zealous-hopper-5npr
 
 or
 
-`nom install stitches-reset`
+`npm install stitches-reset`
 
 ## Usage:
 
