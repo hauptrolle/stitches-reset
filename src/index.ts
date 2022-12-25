@@ -29,6 +29,7 @@ export const reset = {
     }
   },
   table: {
+    borderCollapse: "collapse",
     borderSpacing: "0",
   },
 };
