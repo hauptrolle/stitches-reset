@@ -24,7 +24,7 @@ export const reset = {
   },
   "blockquote:before, blockquote:after, q:before, q:after": {
     content: "''",
-    '@supports (content: none)': {
+    "@supports (content: none)": {
       content: "none",
     }
   },
