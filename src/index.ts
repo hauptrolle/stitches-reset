@@ -23,11 +23,13 @@ export const reset = {
     quotes: "none",
   },
   "blockquote:before, blockquote:after, q:before, q:after": {
-    content: "",
-    // @ts-ignore
-    content: "none",
+    content: "''",
+    "@supports (content: none)": {
+      content: "none",
+    }
   },
   table: {
+    borderCollapse: "collapse",
     borderSpacing: "0",
   },
 };
